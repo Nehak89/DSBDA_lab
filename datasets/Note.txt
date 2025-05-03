@@ -1,0 +1,16 @@
+If no module found error persists:
+run this command on jupyter notebook /colab
+
+No module numpy error,run this:
+pip install numpy
+
+No module seaborn error,run this:
+pip install seaborn
+
+No module matplotlib error,run this:
+pip install matplotlib
+
+No module sklearn error,run this:
+pip install scikit-learn
+
+Restart the kernel to run commands smoothly!
